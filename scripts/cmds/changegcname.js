@@ -3,7 +3,7 @@ module.exports = {
     name: "changegcname",
     version: "1.0",
     aliases: ["cgn"],
-    author: "YourName",
+    author: "Newar Alwaysone",
     shortDescription: "Change the name of the group chat.",
     longDescription: "Changes the name of the group chat to the specified name.",
     category: "admin",
