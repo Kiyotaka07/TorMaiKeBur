@@ -15,7 +15,7 @@ module.exports = {
   },
  
   onStart: async function ({ api, event, args, message, usersData }) {
-    const videoURL = "https://i.ibb.co/Gfsjms91/image.gif"; 
+    const videoURL = "https://raw.githubusercontent.com/zoro-77/video-hosting/main/cache/video-1729092223907-277.mp4"; 
     const cacheFolder = path.resolve(__dirname, 'cache');
     const videoPath = path.join(cacheFolder, 'lund.mp4');
  
@@ -49,13 +49,13 @@ module.exports = {
     const name = userData.name;
  
     const ment = [{ id: id, tag: name }];
-    const a = "Suzume🎀✨";
-    const b = " - ";
-    const c = "NewarniDimpy";
-    const e = "Female";
-    const d = "m.me/61557538632528";
-    const f = "luvley.dimpyy";
-    const g = "Married With Newarr 😝💗";
+    const a = "Sexy BOT69 🎀✨";
+    const b = " + ";
+    const c = "Newar Alwaysone";
+    const e = "Male";
+    const d = "m.me/100093016749575";
+    const f = "Losersamma";
+    const g = "with your mom 🥵💦";
  
  
     message.reply({
